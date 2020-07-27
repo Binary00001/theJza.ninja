@@ -6,7 +6,7 @@
 .gameProgress {
   border: 1px solid #0e7a0d;
   background: #0e7a0d;
-  margin: 1em;
+  margin: 0 0 1em 1em;
   padding: 0.75em;
   border-radius: 25px;
   color: white;
